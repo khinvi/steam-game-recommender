@@ -32,37 +32,49 @@ python scripts/download_data.py
 ```
 steam-game-recommender/
 ├── data/                          # Data storage (will be git-ignored)
-│   └── README.md                  # Instructions for data download
+│   ├── README.md                  # Instructions for data download
+│   ├── reviews_v2.json.gz         # Raw review data (downloaded)
+│   ├── items_v2.json.gz           # Raw item metadata (downloaded)
+│   ├── bundles.json               # Bundle data (downloaded)
+│   └── processed/                 # Processed data files
+│       ├── train_interactions.csv # Training data
+│       ├── test_interactions.csv  # Testing data
+│       └── interaction_matrix.csv # User-item interaction matrix
 ├── notebooks/                     # Jupyter notebooks for exploration
 │   ├── 01_data_exploration.ipynb  # Initial data analysis
 │   ├── 02_preprocessing.ipynb     # Data preprocessing steps
 │   ├── 03_baseline_model.ipynb    # Baseline model implementation
 │   └── 04_advanced_models.ipynb   # SVD and other models
 ├── src/                           # Source code
-│   ├── __init__.py
-│   ├── data/
+│   ├── __init__.py                # Package initialization
+│   ├── data/                      # Data processing modules
 │   │   ├── __init__.py
 │   │   ├── loader.py              # Data loading utilities
 │   │   └── preprocessor.py        # Data preprocessing functions
-│   ├── models/
+│   ├── models/                    # Recommendation models
 │   │   ├── __init__.py
 │   │   ├── base.py                # Base model class
 │   │   ├── cosine_similarity.py   # Cosine similarity model
 │   │   ├── svd.py                 # SVD model implementation
 │   │   └── hybrid.py              # Hybrid model implementation
-│   ├── evaluation/
+│   ├── evaluation/                # Evaluation modules
 │   │   ├── __init__.py
 │   │   └── metrics.py             # Evaluation metrics
-│   └── utils/
+│   └── utils/                     # Utility modules
 │       ├── __init__.py
 │       └── visualization.py       # Visualization utilities
-├── scripts/
+├── scripts/                       # Scripts for various tasks
 │   ├── download_data.py           # Script to download data
-│   └── train_model.py             # Script to train models
+│   ├── train_model.py             # Script to train models
+│   └── web_demo.py                # Streamlit web interface demo
 ├── tests/                         # Unit tests
-│   ├── __init__.py
-│   ├── test_data.py
-│   └── test_models.py
+│   ├── __init__.py                # Test package initialization
+│   ├── test_data.py               # Tests for data processing
+│   └── test_models.py             # Tests for recommendation models
+├── models/                        # Saved model files (will be git-ignored)
+│   ├── user_based_cf.pkl          # Saved user-based model
+│   ├── item_based_cf.pkl          # Saved item-based model
+│   └── svd_model_50_factors.pkl   # Saved SVD model
 ├── requirements.txt               # Project dependencies
 ├── setup.py                       # Package setup
 ├── .gitignore                     # Git ignore file
