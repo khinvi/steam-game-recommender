@@ -31,10 +31,10 @@ steam-game-recommender/
 │       ├── test_interactions.csv  # Testing data
 │       └── interaction_matrix.csv # User-item interaction matrix
 ├── notebooks/                     # Jupyter notebooks for exploration
-│   ├── 01_data_exploration.ipynb  # Initial data analysis
-│   ├── 02_preprocessing.ipynb     # Data preprocessing steps
-│   ├── 03_baseline_model.ipynb    # Baseline model implementation
-│   └── 04_advanced_models.ipynb   # SVD and other models
+│   ├── 01_data_exploration.py     # Initial data analysis
+│   ├── 02_preprocessing.py        # Data preprocessing steps
+│   ├── 03_baseline_model.py       # Baseline model implementation
+│   └── 04_advanced_models.py      # SVD and other models
 ├── src/                           # Source code
 │   ├── __init__.py                # Package initialization
 │   ├── data/                      # Data processing modules
@@ -134,12 +134,12 @@ jupyter notebook
 
 Then navigate to and run the following notebooks in order:
 
-1. **Data Exploration** (`notebooks/01_data_exploration.ipynb`):
+1. **Data Exploration** (`notebooks/01_data_exploration.py`):
    - Examines the structure and characteristics of the Steam dataset
    - Analyzes user behavior and game popularity
    - Visualizes key patterns in the data
 
-2. **Data Preprocessing** (`notebooks/02_preprocessing.ipynb`):
+2. **Data Preprocessing** (`notebooks/02_preprocessing.py`):
    - Cleans and transforms the raw data
    - Normalizes playtime information
    - Splits data into training and testing sets
@@ -152,11 +152,11 @@ You can train recommendation models using either the Jupyter notebooks or the co
 
 #### Using Jupyter Notebooks:
 
-3. **Baseline Models** (`notebooks/03_baseline_model.ipynb`):
+3. **Baseline Models** (`notebooks/03_baseline_model.py`):
    - Implements and evaluates user-based and item-based collaborative filtering
    - Compares their performance using precision@k and hit rate
 
-4. **Advanced Models** (`notebooks/04_advanced_models.ipynb`):
+4. **Advanced Models** (`notebooks/04_advanced_models.py`):
    - Implements and evaluates SVD models
    - Tunes hyperparameters (number of latent factors)
    - Analyzes model performance in detail
