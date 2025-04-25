@@ -1,5 +1,7 @@
 # Steam Game Recommender System
 
+![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
+
 A comprehensive recommendation system for Steam games utilizing collaborative filtering and matrix factorization techniques.
 
 ![Steam Logo](https://store.steampowered.com/favicon.ico) 
