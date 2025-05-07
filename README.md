@@ -2,23 +2,21 @@
 
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
 
-A comprehensive recommendation system for Steam games utilizing collaborative filtering and matrix factorization techniques.
+A comprehensive recommendation system for Steam games that uses collaborative filtering and matrix factorization techniques
 
 ![Steam Logo](https://store.steampowered.com/favicon.ico) 
 
 ## Overview
 
-This project builds a recommendation system for Steam games using user interaction data from the Steam platform. By analyzing user playtime patterns and game metadata, the system can suggest new games that users might enjoy based on their gaming history.
+This project is an extension from a [CSE258](https://cseweb.ucsd.edu/classes/fa24/cse258-b/) project that I built with @wanderman12345 and @aaron-wu1. By analyzing interacion data such as user playtime patterns and game metadata, the system can suggest new games that users might enjoy based on their gaming history.
 
 Key features:
 - Data preprocessing for Steam game interaction data
-- Baseline recommendation models using cosine similarity
-- Advanced recommendation models using Singular Value Decomposition (SVD)
+- Cosine Similarity Recommendation (Baseline)
+- Singular Value Decomposition Recommendation (Advanced)
 - Hybrid models combining collaborative filtering with content-based features
-- Comprehensive evaluation metrics including precision@k and hit rate
-- Interactive web demo for exploring recommendations
-- Extensive documentation and step-by-step notebooks
-
+- Comprehensive evaluation metrics - precision@k and hit rate
+  
 ## Repository Structure
 
 ```
@@ -95,11 +93,7 @@ pip install -e .
 
 ## Data
 
-The project uses the Steam Video Game and Bundle Data from Professor Julian McAuley's research repository. The dataset includes:
-
-- 7.79 million reviews from over 2.5 million users
-- Information about more than 15,000 games
-- 615 game bundles
+We used the Steam Video Game and Bundle Data from Professor Julian McAuley's research repository. It is linked at the bottom. The dataset includes 7.79 million reviews from over 2.5 million users as well as information about more than 15,000 games and 615 game bundles
 
 ### Downloading Data
 
