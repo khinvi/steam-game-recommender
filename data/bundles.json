@@ -1,0 +1,3927 @@
+[
+  {
+    "bundle_id": "B000000",
+    "bundle_name": "Sample Bundle 1",
+    "bundle_price": 29.84,
+    "bundle_final_price": 144.95,
+    "bundle_discount": "67%",
+    "items": [
+      {
+        "item_id": "I000062",
+        "item_name": "Sample Game 63",
+        "genre": [
+          "Indie",
+          "Strategy"
+        ],
+        "tags": [
+          "Building",
+          "Pixel Graphics",
+          "2D"
+        ],
+        "price": 32.04,
+        "release_year": 2017,
+        "developer": "Developer 46",
+        "publisher": "Publisher 7",
+        "rating": 2.4,
+        "playtime_median": 280,
+        "playtime_mean": 364
+      },
+      {
+        "item_id": "I000335",
+        "item_name": "Sample Game 336",
+        "genre": [
+          "Racing",
+          "Shooter",
+          "Horror"
+        ],
+        "tags": [
+          "Story Rich",
+          "Competitive"
+        ],
+        "price": 30.96,
+        "release_year": 2024,
+        "developer": "Developer 50",
+        "publisher": "Publisher 7",
+        "rating": 4.2,
+        "playtime_median": 196,
+        "playtime_mean": 463
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000001",
+    "bundle_name": "Sample Bundle 2",
+    "bundle_price": 21.14,
+    "bundle_final_price": 105.03,
+    "bundle_discount": "22%",
+    "items": [
+      {
+        "item_id": "I000568",
+        "item_name": "Sample Game 569",
+        "genre": [
+          "Fighting"
+        ],
+        "tags": [
+          "Linear",
+          "Atmospheric",
+          "Sandbox",
+          "Pixel Graphics",
+          "Roguelike"
+        ],
+        "price": 17.9,
+        "release_year": 2013,
+        "developer": "Developer 31",
+        "publisher": "Publisher 1",
+        "rating": 4.5,
+        "playtime_median": 377,
+        "playtime_mean": 487
+      },
+      {
+        "item_id": "I000064",
+        "item_name": "Sample Game 65",
+        "genre": [
+          "Fighting",
+          "RPG"
+        ],
+        "tags": [
+          "Story Rich",
+          "Exploration"
+        ],
+        "price": 13.81,
+        "release_year": 2024,
+        "developer": "Developer 21",
+        "publisher": "Publisher 10",
+        "rating": 3.6,
+        "playtime_median": 34,
+        "playtime_mean": 414
+      },
+      {
+        "item_id": "I000936",
+        "item_name": "Sample Game 937",
+        "genre": [
+          "Adventure"
+        ],
+        "tags": [
+          "Atmospheric",
+          "Story Rich",
+          "Stealth",
+          "Co-op",
+          "Open World"
+        ],
+        "price": 58.64,
+        "release_year": 2019,
+        "developer": "Developer 38",
+        "publisher": "Publisher 19",
+        "rating": 4.6,
+        "playtime_median": 52,
+        "playtime_mean": 487
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000002",
+    "bundle_name": "Sample Bundle 3",
+    "bundle_price": 79.32,
+    "bundle_final_price": 33.5,
+    "bundle_discount": "61%",
+    "items": [
+      {
+        "item_id": "I000724",
+        "item_name": "Sample Game 725",
+        "genre": [
+          "Platformer",
+          "Strategy",
+          "Racing"
+        ],
+        "tags": [
+          "Co-op",
+          "Linear",
+          "Competitive",
+          "Combat"
+        ],
+        "price": 4.88,
+        "release_year": 2017,
+        "developer": "Developer 43",
+        "publisher": "Publisher 1",
+        "rating": 4.4,
+        "playtime_median": 381,
+        "playtime_mean": 315
+      },
+      {
+        "item_id": "I000090",
+        "item_name": "Sample Game 91",
+        "genre": [
+          "Strategy"
+        ],
+        "tags": [
+          "3D",
+          "Competitive",
+          "Single-player"
+        ],
+        "price": 18.6,
+        "release_year": 2015,
+        "developer": "Developer 47",
+        "publisher": "Publisher 6",
+        "rating": 1.2,
+        "playtime_median": 365,
+        "playtime_mean": 528
+      },
+      {
+        "item_id": "I000748",
+        "item_name": "Sample Game 749",
+        "genre": [
+          "Puzzle",
+          "Simulation",
+          "Adventure"
+        ],
+        "tags": [
+          "Co-op",
+          "Single-player"
+        ],
+        "price": 41.03,
+        "release_year": 2011,
+        "developer": "Developer 48",
+        "publisher": "Publisher 20",
+        "rating": 1.1,
+        "playtime_median": 220,
+        "playtime_mean": 152
+      },
+      {
+        "item_id": "I000892",
+        "item_name": "Sample Game 893",
+        "genre": [
+          "Puzzle",
+          "Horror",
+          "Casual"
+        ],
+        "tags": [
+          "Great Soundtrack",
+          "3D",
+          "Roguelike"
+        ],
+        "price": 31.69,
+        "release_year": 2024,
+        "developer": "Developer 33",
+        "publisher": "Publisher 19",
+        "rating": 1.4,
+        "playtime_median": 460,
+        "playtime_mean": 107
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000003",
+    "bundle_name": "Sample Bundle 4",
+    "bundle_price": 106.82,
+    "bundle_final_price": 81.96,
+    "bundle_discount": "38%",
+    "items": [
+      {
+        "item_id": "I000651",
+        "item_name": "Sample Game 652",
+        "genre": [
+          "Fighting",
+          "Indie"
+        ],
+        "tags": [
+          "Pixel Graphics",
+          "Roguelike",
+          "Open World"
+        ],
+        "price": 22.81,
+        "release_year": 2021,
+        "developer": "Developer 34",
+        "publisher": "Publisher 11",
+        "rating": 3.2,
+        "playtime_median": 11,
+        "playtime_mean": 596
+      },
+      {
+        "item_id": "I000512",
+        "item_name": "Sample Game 513",
+        "genre": [
+          "Simulation"
+        ],
+        "tags": [
+          "Exploration",
+          "Great Soundtrack"
+        ],
+        "price": 53.89,
+        "release_year": 2021,
+        "developer": "Developer 3",
+        "publisher": "Publisher 9",
+        "rating": 1.1,
+        "playtime_median": 394,
+        "playtime_mean": 350
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000004",
+    "bundle_name": "Sample Bundle 5",
+    "bundle_price": 51.5,
+    "bundle_final_price": 33.15,
+    "bundle_discount": "36%",
+    "items": [
+      {
+        "item_id": "I000906",
+        "item_name": "Sample Game 907",
+        "genre": [
+          "Platformer"
+        ],
+        "tags": [
+          "Roguelike",
+          "Competitive",
+          "Building",
+          "Crafting"
+        ],
+        "price": 36.75,
+        "release_year": 2010,
+        "developer": "Developer 26",
+        "publisher": "Publisher 2",
+        "rating": 3.1,
+        "playtime_median": 295,
+        "playtime_mean": 226
+      },
+      {
+        "item_id": "I000149",
+        "item_name": "Sample Game 150",
+        "genre": [
+          "Indie"
+        ],
+        "tags": [
+          "Crafting",
+          "Roguelite",
+          "Pixel Graphics",
+          "2D",
+          "Exploration"
+        ],
+        "price": 22.36,
+        "release_year": 2022,
+        "developer": "Developer 46",
+        "publisher": "Publisher 1",
+        "rating": 4.4,
+        "playtime_median": 136,
+        "playtime_mean": 390
+      },
+      {
+        "item_id": "I000551",
+        "item_name": "Sample Game 552",
+        "genre": [
+          "Casual",
+          "Adventure"
+        ],
+        "tags": [
+          "Building",
+          "Exploration",
+          "Roguelike",
+          "Great Soundtrack"
+        ],
+        "price": 52.66,
+        "release_year": 2021,
+        "developer": "Developer 10",
+        "publisher": "Publisher 3",
+        "rating": 2.2,
+        "playtime_median": 255,
+        "playtime_mean": 518
+      },
+      {
+        "item_id": "I000922",
+        "item_name": "Sample Game 923",
+        "genre": [
+          "Action"
+        ],
+        "tags": [
+          "Atmospheric",
+          "Sandbox",
+          "Story Rich"
+        ],
+        "price": 10.85,
+        "release_year": 2011,
+        "developer": "Developer 46",
+        "publisher": "Publisher 15",
+        "rating": 2.6,
+        "playtime_median": 275,
+        "playtime_mean": 385
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000005",
+    "bundle_name": "Sample Bundle 6",
+    "bundle_price": 111.42,
+    "bundle_final_price": 63.36,
+    "bundle_discount": "40%",
+    "items": [
+      {
+        "item_id": "I000776",
+        "item_name": "Sample Game 777",
+        "genre": [
+          "Strategy",
+          "RPG"
+        ],
+        "tags": [
+          "3D",
+          "Competitive"
+        ],
+        "price": 49.65,
+        "release_year": 2014,
+        "developer": "Developer 49",
+        "publisher": "Publisher 15",
+        "rating": 4.6,
+        "playtime_median": 461,
+        "playtime_mean": 112
+      },
+      {
+        "item_id": "I000125",
+        "item_name": "Sample Game 126",
+        "genre": [
+          "Shooter"
+        ],
+        "tags": [
+          "Exploration",
+          "Roguelite",
+          "Co-op",
+          "Building",
+          "Linear"
+        ],
+        "price": 39.01,
+        "release_year": 2010,
+        "developer": "Developer 2",
+        "publisher": "Publisher 18",
+        "rating": 1.8,
+        "playtime_median": 235,
+        "playtime_mean": 541
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000006",
+    "bundle_name": "Sample Bundle 7",
+    "bundle_price": 49.7,
+    "bundle_final_price": 99.5,
+    "bundle_discount": "68%",
+    "items": [
+      {
+        "item_id": "I000402",
+        "item_name": "Sample Game 403",
+        "genre": [
+          "Shooter",
+          "Simulation"
+        ],
+        "tags": [
+          "Multiplayer",
+          "Atmospheric"
+        ],
+        "price": 57.86,
+        "release_year": 2011,
+        "developer": "Developer 11",
+        "publisher": "Publisher 3",
+        "rating": 2.6,
+        "playtime_median": 328,
+        "playtime_mean": 172
+      },
+      {
+        "item_id": "I000566",
+        "item_name": "Sample Game 567",
+        "genre": [
+          "Racing",
+          "Platformer",
+          "Shooter"
+        ],
+        "tags": [
+          "Atmospheric",
+          "Building",
+          "Multiplayer"
+        ],
+        "price": 51.32,
+        "release_year": 2018,
+        "developer": "Developer 27",
+        "publisher": "Publisher 7",
+        "rating": 4.8,
+        "playtime_median": 46,
+        "playtime_mean": 67
+      },
+      {
+        "item_id": "I000408",
+        "item_name": "Sample Game 409",
+        "genre": [
+          "Fighting",
+          "Strategy"
+        ],
+        "tags": [
+          "Building",
+          "Competitive",
+          "Roguelike",
+          "Combat"
+        ],
+        "price": 19.82,
+        "release_year": 2021,
+        "developer": "Developer 8",
+        "publisher": "Publisher 12",
+        "rating": 4.2,
+        "playtime_median": 264,
+        "playtime_mean": 202
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000007",
+    "bundle_name": "Sample Bundle 8",
+    "bundle_price": 180.85,
+    "bundle_final_price": 94.79,
+    "bundle_discount": "66%",
+    "items": [
+      {
+        "item_id": "I000622",
+        "item_name": "Sample Game 623",
+        "genre": [
+          "Fighting",
+          "Visual Novel"
+        ],
+        "tags": [
+          "Stealth",
+          "Roguelike",
+          "Sandbox",
+          "Combat"
+        ],
+        "price": 3.53,
+        "release_year": 2014,
+        "developer": "Developer 10",
+        "publisher": "Publisher 17",
+        "rating": 4.9,
+        "playtime_median": 99,
+        "playtime_mean": 354
+      },
+      {
+        "item_id": "I000789",
+        "item_name": "Sample Game 790",
+        "genre": [
+          "Shooter",
+          "Simulation"
+        ],
+        "tags": [
+          "Exploration",
+          "Story Rich",
+          "Competitive"
+        ],
+        "price": 42.57,
+        "release_year": 2010,
+        "developer": "Developer 24",
+        "publisher": "Publisher 20",
+        "rating": 1.0,
+        "playtime_median": 166,
+        "playtime_mean": 135
+      },
+      {
+        "item_id": "I000356",
+        "item_name": "Sample Game 357",
+        "genre": [
+          "Shooter",
+          "Visual Novel",
+          "Action"
+        ],
+        "tags": [
+          "Sandbox",
+          "Exploration",
+          "Story Rich",
+          "Combat"
+        ],
+        "price": 7.33,
+        "release_year": 2021,
+        "developer": "Developer 47",
+        "publisher": "Publisher 3",
+        "rating": 4.3,
+        "playtime_median": 150,
+        "playtime_mean": 570
+      },
+      {
+        "item_id": "I000562",
+        "item_name": "Sample Game 563",
+        "genre": [
+          "Action",
+          "Indie"
+        ],
+        "tags": [
+          "Atmospheric",
+          "3D"
+        ],
+        "price": 56.51,
+        "release_year": 2023,
+        "developer": "Developer 39",
+        "publisher": "Publisher 11",
+        "rating": 3.0,
+        "playtime_median": 492,
+        "playtime_mean": 379
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000008",
+    "bundle_name": "Sample Bundle 9",
+    "bundle_price": 126.75,
+    "bundle_final_price": 114.68,
+    "bundle_discount": "27%",
+    "items": [
+      {
+        "item_id": "I000212",
+        "item_name": "Sample Game 213",
+        "genre": [
+          "Puzzle",
+          "RPG",
+          "Visual Novel"
+        ],
+        "tags": [
+          "2D",
+          "Roguelite",
+          "Sandbox",
+          "Single-player",
+          "3D"
+        ],
+        "price": 13.5,
+        "release_year": 2010,
+        "developer": "Developer 8",
+        "publisher": "Publisher 10",
+        "rating": 4.4,
+        "playtime_median": 166,
+        "playtime_mean": 483
+      },
+      {
+        "item_id": "I000874",
+        "item_name": "Sample Game 875",
+        "genre": [
+          "Sports",
+          "Simulation"
+        ],
+        "tags": [
+          "Pixel Graphics",
+          "Competitive",
+          "Exploration"
+        ],
+        "price": 47.25,
+        "release_year": 2016,
+        "developer": "Developer 14",
+        "publisher": "Publisher 12",
+        "rating": 2.2,
+        "playtime_median": 55,
+        "playtime_mean": 321
+      },
+      {
+        "item_id": "I000262",
+        "item_name": "Sample Game 263",
+        "genre": [
+          "Horror"
+        ],
+        "tags": [
+          "3D",
+          "Pixel Graphics",
+          "2D"
+        ],
+        "price": 1.02,
+        "release_year": 2012,
+        "developer": "Developer 24",
+        "publisher": "Publisher 17",
+        "rating": 1.5,
+        "playtime_median": 336,
+        "playtime_mean": 579
+      },
+      {
+        "item_id": "I000922",
+        "item_name": "Sample Game 923",
+        "genre": [
+          "Action"
+        ],
+        "tags": [
+          "Atmospheric",
+          "Sandbox",
+          "Story Rich"
+        ],
+        "price": 10.85,
+        "release_year": 2011,
+        "developer": "Developer 46",
+        "publisher": "Publisher 15",
+        "rating": 2.6,
+        "playtime_median": 275,
+        "playtime_mean": 385
+      },
+      {
+        "item_id": "I000645",
+        "item_name": "Sample Game 646",
+        "genre": [
+          "Horror",
+          "Simulation"
+        ],
+        "tags": [
+          "Stealth",
+          "Co-op",
+          "Exploration",
+          "Open World"
+        ],
+        "price": 53.31,
+        "release_year": 2013,
+        "developer": "Developer 24",
+        "publisher": "Publisher 14",
+        "rating": 4.4,
+        "playtime_median": 196,
+        "playtime_mean": 396
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000009",
+    "bundle_name": "Sample Bundle 10",
+    "bundle_price": 137.25,
+    "bundle_final_price": 48.24,
+    "bundle_discount": "33%",
+    "items": [
+      {
+        "item_id": "I000639",
+        "item_name": "Sample Game 640",
+        "genre": [
+          "Shooter"
+        ],
+        "tags": [
+          "3D",
+          "Pixel Graphics",
+          "Stealth"
+        ],
+        "price": 29.59,
+        "release_year": 2019,
+        "developer": "Developer 31",
+        "publisher": "Publisher 14",
+        "rating": 2.2,
+        "playtime_median": 445,
+        "playtime_mean": 136
+      },
+      {
+        "item_id": "I000360",
+        "item_name": "Sample Game 361",
+        "genre": [
+          "Adventure",
+          "Shooter",
+          "Visual Novel"
+        ],
+        "tags": [
+          "Pixel Graphics",
+          "Great Soundtrack",
+          "Atmospheric",
+          "Competitive"
+        ],
+        "price": 14.99,
+        "release_year": 2018,
+        "developer": "Developer 17",
+        "publisher": "Publisher 2",
+        "rating": 3.4,
+        "playtime_median": 59,
+        "playtime_mean": 384
+      },
+      {
+        "item_id": "I000709",
+        "item_name": "Sample Game 710",
+        "genre": [
+          "Shooter",
+          "Fighting",
+          "Platformer"
+        ],
+        "tags": [
+          "Story Rich",
+          "Linear"
+        ],
+        "price": 3.14,
+        "release_year": 2022,
+        "developer": "Developer 39",
+        "publisher": "Publisher 2",
+        "rating": 3.1,
+        "playtime_median": 369,
+        "playtime_mean": 383
+      },
+      {
+        "item_id": "I000537",
+        "item_name": "Sample Game 538",
+        "genre": [
+          "Shooter",
+          "Horror"
+        ],
+        "tags": [
+          "Building",
+          "Multiplayer"
+        ],
+        "price": 53.86,
+        "release_year": 2013,
+        "developer": "Developer 49",
+        "publisher": "Publisher 8",
+        "rating": 4.0,
+        "playtime_median": 36,
+        "playtime_mean": 105
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000010",
+    "bundle_name": "Sample Bundle 11",
+    "bundle_price": 52.95,
+    "bundle_final_price": 25.18,
+    "bundle_discount": "29%",
+    "items": [
+      {
+        "item_id": "I000806",
+        "item_name": "Sample Game 807",
+        "genre": [
+          "Strategy"
+        ],
+        "tags": [
+          "Great Soundtrack",
+          "Roguelike",
+          "Pixel Graphics",
+          "Atmospheric"
+        ],
+        "price": 34.22,
+        "release_year": 2017,
+        "developer": "Developer 25",
+        "publisher": "Publisher 19",
+        "rating": 2.6,
+        "playtime_median": 167,
+        "playtime_mean": 163
+      },
+      {
+        "item_id": "I000295",
+        "item_name": "Sample Game 296",
+        "genre": [
+          "Puzzle",
+          "Racing",
+          "Casual"
+        ],
+        "tags": [
+          "Multiplayer",
+          "Roguelike",
+          "Stealth",
+          "Great Soundtrack",
+          "Open World"
+        ],
+        "price": 52.92,
+        "release_year": 2016,
+        "developer": "Developer 16",
+        "publisher": "Publisher 19",
+        "rating": 2.7,
+        "playtime_median": 157,
+        "playtime_mean": 364
+      },
+      {
+        "item_id": "I000430",
+        "item_name": "Sample Game 431",
+        "genre": [
+          "Sports",
+          "Indie"
+        ],
+        "tags": [
+          "Building",
+          "2D",
+          "Roguelike"
+        ],
+        "price": 51.89,
+        "release_year": 2018,
+        "developer": "Developer 3",
+        "publisher": "Publisher 6",
+        "rating": 1.0,
+        "playtime_median": 85,
+        "playtime_mean": 311
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000011",
+    "bundle_name": "Sample Bundle 12",
+    "bundle_price": 157.15,
+    "bundle_final_price": 77.22,
+    "bundle_discount": "46%",
+    "items": [
+      {
+        "item_id": "I000201",
+        "item_name": "Sample Game 202",
+        "genre": [
+          "Visual Novel",
+          "Racing"
+        ],
+        "tags": [
+          "3D",
+          "Competitive",
+          "Building"
+        ],
+        "price": 5.67,
+        "release_year": 2013,
+        "developer": "Developer 2",
+        "publisher": "Publisher 9",
+        "rating": 4.9,
+        "playtime_median": 89,
+        "playtime_mean": 333
+      },
+      {
+        "item_id": "I000650",
+        "item_name": "Sample Game 651",
+        "genre": [
+          "Action",
+          "Puzzle",
+          "Indie"
+        ],
+        "tags": [
+          "Open World",
+          "Single-player"
+        ],
+        "price": 18.93,
+        "release_year": 2013,
+        "developer": "Developer 15",
+        "publisher": "Publisher 18",
+        "rating": 3.8,
+        "playtime_median": 481,
+        "playtime_mean": 78
+      },
+      {
+        "item_id": "I000930",
+        "item_name": "Sample Game 931",
+        "genre": [
+          "Action",
+          "Simulation"
+        ],
+        "tags": [
+          "Pixel Graphics",
+          "Atmospheric"
+        ],
+        "price": 18.73,
+        "release_year": 2020,
+        "developer": "Developer 38",
+        "publisher": "Publisher 5",
+        "rating": 2.0,
+        "playtime_median": 44,
+        "playtime_mean": 17
+      },
+      {
+        "item_id": "I000210",
+        "item_name": "Sample Game 211",
+        "genre": [
+          "Shooter",
+          "Action",
+          "Fighting"
+        ],
+        "tags": [
+          "Roguelite",
+          "Linear"
+        ],
+        "price": 19.43,
+        "release_year": 2014,
+        "developer": "Developer 4",
+        "publisher": "Publisher 13",
+        "rating": 2.7,
+        "playtime_median": 180,
+        "playtime_mean": 228
+      },
+      {
+        "item_id": "I000138",
+        "item_name": "Sample Game 139",
+        "genre": [
+          "Horror",
+          "RPG"
+        ],
+        "tags": [
+          "Open World",
+          "Sandbox",
+          "Atmospheric",
+          "Roguelite"
+        ],
+        "price": 51.22,
+        "release_year": 2023,
+        "developer": "Developer 11",
+        "publisher": "Publisher 4",
+        "rating": 2.5,
+        "playtime_median": 221,
+        "playtime_mean": 299
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000012",
+    "bundle_name": "Sample Bundle 13",
+    "bundle_price": 91.97,
+    "bundle_final_price": 128.44,
+    "bundle_discount": "17%",
+    "items": [
+      {
+        "item_id": "I000220",
+        "item_name": "Sample Game 221",
+        "genre": [
+          "Sports"
+        ],
+        "tags": [
+          "Combat",
+          "Roguelite",
+          "Stealth",
+          "Roguelike",
+          "3D"
+        ],
+        "price": 11.83,
+        "release_year": 2013,
+        "developer": "Developer 39",
+        "publisher": "Publisher 10",
+        "rating": 4.7,
+        "playtime_median": 234,
+        "playtime_mean": 244
+      },
+      {
+        "item_id": "I000336",
+        "item_name": "Sample Game 337",
+        "genre": [
+          "Shooter"
+        ],
+        "tags": [
+          "Stealth",
+          "Atmospheric",
+          "Roguelike",
+          "Great Soundtrack"
+        ],
+        "price": 42.67,
+        "release_year": 2021,
+        "developer": "Developer 19",
+        "publisher": "Publisher 2",
+        "rating": 3.5,
+        "playtime_median": 76,
+        "playtime_mean": 476
+      },
+      {
+        "item_id": "I000154",
+        "item_name": "Sample Game 155",
+        "genre": [
+          "Simulation",
+          "Adventure",
+          "Action"
+        ],
+        "tags": [
+          "Co-op",
+          "Competitive"
+        ],
+        "price": 48.77,
+        "release_year": 2019,
+        "developer": "Developer 27",
+        "publisher": "Publisher 1",
+        "rating": 1.6,
+        "playtime_median": 82,
+        "playtime_mean": 241
+      },
+      {
+        "item_id": "I000477",
+        "item_name": "Sample Game 478",
+        "genre": [
+          "Indie",
+          "Platformer",
+          "Racing"
+        ],
+        "tags": [
+          "Co-op",
+          "Linear"
+        ],
+        "price": 48.55,
+        "release_year": 2018,
+        "developer": "Developer 15",
+        "publisher": "Publisher 18",
+        "rating": 3.2,
+        "playtime_median": 16,
+        "playtime_mean": 315
+      },
+      {
+        "item_id": "I000843",
+        "item_name": "Sample Game 844",
+        "genre": [
+          "Platformer",
+          "Puzzle"
+        ],
+        "tags": [
+          "Open World",
+          "Multiplayer",
+          "Crafting",
+          "Stealth"
+        ],
+        "price": 13.59,
+        "release_year": 2023,
+        "developer": "Developer 1",
+        "publisher": "Publisher 7",
+        "rating": 2.8,
+        "playtime_median": 419,
+        "playtime_mean": 72
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000013",
+    "bundle_name": "Sample Bundle 14",
+    "bundle_price": 32.45,
+    "bundle_final_price": 74.29,
+    "bundle_discount": "29%",
+    "items": [
+      {
+        "item_id": "I000294",
+        "item_name": "Sample Game 295",
+        "genre": [
+          "Sports",
+          "Casual",
+          "RPG"
+        ],
+        "tags": [
+          "Roguelite",
+          "Stealth",
+          "Multiplayer",
+          "Roguelike"
+        ],
+        "price": 36.65,
+        "release_year": 2015,
+        "developer": "Developer 5",
+        "publisher": "Publisher 7",
+        "rating": 1.1,
+        "playtime_median": 385,
+        "playtime_mean": 367
+      },
+      {
+        "item_id": "I000050",
+        "item_name": "Sample Game 51",
+        "genre": [
+          "Casual"
+        ],
+        "tags": [
+          "Crafting",
+          "Story Rich",
+          "Great Soundtrack",
+          "Co-op",
+          "Atmospheric"
+        ],
+        "price": 6.96,
+        "release_year": 2019,
+        "developer": "Developer 41",
+        "publisher": "Publisher 8",
+        "rating": 4.8,
+        "playtime_median": 125,
+        "playtime_mean": 589
+      },
+      {
+        "item_id": "I000652",
+        "item_name": "Sample Game 653",
+        "genre": [
+          "Indie",
+          "Casual"
+        ],
+        "tags": [
+          "Sandbox",
+          "Stealth"
+        ],
+        "price": 39.15,
+        "release_year": 2016,
+        "developer": "Developer 9",
+        "publisher": "Publisher 15",
+        "rating": 4.9,
+        "playtime_median": 412,
+        "playtime_mean": 541
+      },
+      {
+        "item_id": "I000103",
+        "item_name": "Sample Game 104",
+        "genre": [
+          "Indie"
+        ],
+        "tags": [
+          "Open World",
+          "Sandbox",
+          "Roguelite",
+          "Linear",
+          "Roguelike"
+        ],
+        "price": 36.25,
+        "release_year": 2017,
+        "developer": "Developer 31",
+        "publisher": "Publisher 4",
+        "rating": 4.7,
+        "playtime_median": 114,
+        "playtime_mean": 216
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000014",
+    "bundle_name": "Sample Bundle 15",
+    "bundle_price": 143.72,
+    "bundle_final_price": 53.59,
+    "bundle_discount": "58%",
+    "items": [
+      {
+        "item_id": "I000587",
+        "item_name": "Sample Game 588",
+        "genre": [
+          "Action",
+          "Adventure"
+        ],
+        "tags": [
+          "Great Soundtrack",
+          "3D",
+          "Roguelite"
+        ],
+        "price": 8.11,
+        "release_year": 2010,
+        "developer": "Developer 29",
+        "publisher": "Publisher 16",
+        "rating": 1.7,
+        "playtime_median": 179,
+        "playtime_mean": 268
+      },
+      {
+        "item_id": "I000980",
+        "item_name": "Sample Game 981",
+        "genre": [
+          "Casual",
+          "Strategy"
+        ],
+        "tags": [
+          "Combat",
+          "Building",
+          "Linear",
+          "Sandbox",
+          "Competitive"
+        ],
+        "price": 19.33,
+        "release_year": 2021,
+        "developer": "Developer 30",
+        "publisher": "Publisher 4",
+        "rating": 1.6,
+        "playtime_median": 121,
+        "playtime_mean": 369
+      },
+      {
+        "item_id": "I000033",
+        "item_name": "Sample Game 34",
+        "genre": [
+          "RPG"
+        ],
+        "tags": [
+          "Linear",
+          "Stealth"
+        ],
+        "price": 40.25,
+        "release_year": 2021,
+        "developer": "Developer 18",
+        "publisher": "Publisher 1",
+        "rating": 4.2,
+        "playtime_median": 329,
+        "playtime_mean": 365
+      },
+      {
+        "item_id": "I000107",
+        "item_name": "Sample Game 108",
+        "genre": [
+          "Strategy"
+        ],
+        "tags": [
+          "Building",
+          "Pixel Graphics",
+          "Combat"
+        ],
+        "price": 28.5,
+        "release_year": 2014,
+        "developer": "Developer 22",
+        "publisher": "Publisher 19",
+        "rating": 4.8,
+        "playtime_median": 170,
+        "playtime_mean": 114
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000015",
+    "bundle_name": "Sample Bundle 16",
+    "bundle_price": 121.87,
+    "bundle_final_price": 130.26,
+    "bundle_discount": "44%",
+    "items": [
+      {
+        "item_id": "I000249",
+        "item_name": "Sample Game 250",
+        "genre": [
+          "Puzzle",
+          "Racing",
+          "Action"
+        ],
+        "tags": [
+          "Co-op",
+          "Roguelike"
+        ],
+        "price": 54.13,
+        "release_year": 2011,
+        "developer": "Developer 33",
+        "publisher": "Publisher 10",
+        "rating": 3.0,
+        "playtime_median": 393,
+        "playtime_mean": 307
+      },
+      {
+        "item_id": "I000204",
+        "item_name": "Sample Game 205",
+        "genre": [
+          "Simulation",
+          "Casual",
+          "Horror"
+        ],
+        "tags": [
+          "2D",
+          "Great Soundtrack"
+        ],
+        "price": 36.11,
+        "release_year": 2023,
+        "developer": "Developer 1",
+        "publisher": "Publisher 8",
+        "rating": 1.3,
+        "playtime_median": 298,
+        "playtime_mean": 82
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000016",
+    "bundle_name": "Sample Bundle 17",
+    "bundle_price": 76.62,
+    "bundle_final_price": 22.95,
+    "bundle_discount": "26%",
+    "items": [
+      {
+        "item_id": "I000158",
+        "item_name": "Sample Game 159",
+        "genre": [
+          "Sports",
+          "Shooter",
+          "Racing"
+        ],
+        "tags": [
+          "Linear",
+          "Story Rich",
+          "Competitive",
+          "Building",
+          "Pixel Graphics"
+        ],
+        "price": 52.74,
+        "release_year": 2024,
+        "developer": "Developer 10",
+        "publisher": "Publisher 12",
+        "rating": 2.0,
+        "playtime_median": 214,
+        "playtime_mean": 313
+      },
+      {
+        "item_id": "I000828",
+        "item_name": "Sample Game 829",
+        "genre": [
+          "Adventure",
+          "Sports",
+          "Indie"
+        ],
+        "tags": [
+          "Pixel Graphics",
+          "Roguelite",
+          "Story Rich"
+        ],
+        "price": 12.73,
+        "release_year": 2017,
+        "developer": "Developer 9",
+        "publisher": "Publisher 14",
+        "rating": 3.1,
+        "playtime_median": 316,
+        "playtime_mean": 294
+      },
+      {
+        "item_id": "I000974",
+        "item_name": "Sample Game 975",
+        "genre": [
+          "Visual Novel"
+        ],
+        "tags": [
+          "Pixel Graphics",
+          "Atmospheric"
+        ],
+        "price": 52.74,
+        "release_year": 2019,
+        "developer": "Developer 40",
+        "publisher": "Publisher 19",
+        "rating": 1.2,
+        "playtime_median": 13,
+        "playtime_mean": 281
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000017",
+    "bundle_name": "Sample Bundle 18",
+    "bundle_price": 81.69,
+    "bundle_final_price": 86.65,
+    "bundle_discount": "43%",
+    "items": [
+      {
+        "item_id": "I000536",
+        "item_name": "Sample Game 537",
+        "genre": [
+          "Sports"
+        ],
+        "tags": [
+          "Co-op",
+          "Pixel Graphics"
+        ],
+        "price": 2.35,
+        "release_year": 2021,
+        "developer": "Developer 17",
+        "publisher": "Publisher 11",
+        "rating": 3.4,
+        "playtime_median": 29,
+        "playtime_mean": 179
+      },
+      {
+        "item_id": "I000061",
+        "item_name": "Sample Game 62",
+        "genre": [
+          "RPG",
+          "Shooter",
+          "Racing"
+        ],
+        "tags": [
+          "Great Soundtrack",
+          "Roguelike"
+        ],
+        "price": 16.5,
+        "release_year": 2018,
+        "developer": "Developer 6",
+        "publisher": "Publisher 2",
+        "rating": 4.1,
+        "playtime_median": 139,
+        "playtime_mean": 156
+      },
+      {
+        "item_id": "I000007",
+        "item_name": "Sample Game 8",
+        "genre": [
+          "Strategy",
+          "Adventure"
+        ],
+        "tags": [
+          "Story Rich",
+          "Building"
+        ],
+        "price": 4.87,
+        "release_year": 2011,
+        "developer": "Developer 37",
+        "publisher": "Publisher 17",
+        "rating": 4.8,
+        "playtime_median": 167,
+        "playtime_mean": 299
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000018",
+    "bundle_name": "Sample Bundle 19",
+    "bundle_price": 146.71,
+    "bundle_final_price": 13.95,
+    "bundle_discount": "16%",
+    "items": [
+      {
+        "item_id": "I000371",
+        "item_name": "Sample Game 372",
+        "genre": [
+          "RPG",
+          "Platformer"
+        ],
+        "tags": [
+          "Stealth",
+          "Story Rich",
+          "Open World"
+        ],
+        "price": 17.39,
+        "release_year": 2010,
+        "developer": "Developer 25",
+        "publisher": "Publisher 9",
+        "rating": 2.5,
+        "playtime_median": 177,
+        "playtime_mean": 297
+      },
+      {
+        "item_id": "I000825",
+        "item_name": "Sample Game 826",
+        "genre": [
+          "Platformer"
+        ],
+        "tags": [
+          "Exploration",
+          "Linear",
+          "Multiplayer"
+        ],
+        "price": 16.99,
+        "release_year": 2015,
+        "developer": "Developer 25",
+        "publisher": "Publisher 7",
+        "rating": 1.9,
+        "playtime_median": 406,
+        "playtime_mean": 248
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000019",
+    "bundle_name": "Sample Bundle 20",
+    "bundle_price": 64.22,
+    "bundle_final_price": 105.52,
+    "bundle_discount": "34%",
+    "items": [
+      {
+        "item_id": "I000628",
+        "item_name": "Sample Game 629",
+        "genre": [
+          "Visual Novel"
+        ],
+        "tags": [
+          "Combat",
+          "Linear",
+          "Stealth",
+          "Crafting"
+        ],
+        "price": 2.94,
+        "release_year": 2010,
+        "developer": "Developer 2",
+        "publisher": "Publisher 2",
+        "rating": 2.6,
+        "playtime_median": 460,
+        "playtime_mean": 533
+      },
+      {
+        "item_id": "I000467",
+        "item_name": "Sample Game 468",
+        "genre": [
+          "Visual Novel",
+          "Strategy"
+        ],
+        "tags": [
+          "Great Soundtrack",
+          "Competitive",
+          "Story Rich"
+        ],
+        "price": 30.55,
+        "release_year": 2024,
+        "developer": "Developer 28",
+        "publisher": "Publisher 5",
+        "rating": 3.2,
+        "playtime_median": 117,
+        "playtime_mean": 166
+      },
+      {
+        "item_id": "I000451",
+        "item_name": "Sample Game 452",
+        "genre": [
+          "Strategy"
+        ],
+        "tags": [
+          "Co-op",
+          "Pixel Graphics",
+          "Stealth",
+          "2D",
+          "Sandbox"
+        ],
+        "price": 37.55,
+        "release_year": 2024,
+        "developer": "Developer 39",
+        "publisher": "Publisher 8",
+        "rating": 4.1,
+        "playtime_median": 397,
+        "playtime_mean": 373
+      },
+      {
+        "item_id": "I000650",
+        "item_name": "Sample Game 651",
+        "genre": [
+          "Action",
+          "Puzzle",
+          "Indie"
+        ],
+        "tags": [
+          "Open World",
+          "Single-player"
+        ],
+        "price": 18.93,
+        "release_year": 2013,
+        "developer": "Developer 15",
+        "publisher": "Publisher 18",
+        "rating": 3.8,
+        "playtime_median": 481,
+        "playtime_mean": 78
+      },
+      {
+        "item_id": "I000985",
+        "item_name": "Sample Game 986",
+        "genre": [
+          "Indie",
+          "Visual Novel",
+          "Action"
+        ],
+        "tags": [
+          "Open World",
+          "Sandbox",
+          "Combat",
+          "Co-op",
+          "Exploration"
+        ],
+        "price": 13.98,
+        "release_year": 2010,
+        "developer": "Developer 7",
+        "publisher": "Publisher 11",
+        "rating": 2.3,
+        "playtime_median": 110,
+        "playtime_mean": 588
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000020",
+    "bundle_name": "Sample Bundle 21",
+    "bundle_price": 173.85,
+    "bundle_final_price": 113.12,
+    "bundle_discount": "49%",
+    "items": [
+      {
+        "item_id": "I000880",
+        "item_name": "Sample Game 881",
+        "genre": [
+          "Adventure",
+          "Indie",
+          "Visual Novel"
+        ],
+        "tags": [
+          "Single-player",
+          "Roguelite"
+        ],
+        "price": 11.37,
+        "release_year": 2016,
+        "developer": "Developer 37",
+        "publisher": "Publisher 8",
+        "rating": 4.7,
+        "playtime_median": 320,
+        "playtime_mean": 137
+      },
+      {
+        "item_id": "I000414",
+        "item_name": "Sample Game 415",
+        "genre": [
+          "Action",
+          "Racing"
+        ],
+        "tags": [
+          "Single-player",
+          "Multiplayer",
+          "Roguelite",
+          "Open World"
+        ],
+        "price": 42.37,
+        "release_year": 2018,
+        "developer": "Developer 35",
+        "publisher": "Publisher 16",
+        "rating": 3.3,
+        "playtime_median": 378,
+        "playtime_mean": 44
+      },
+      {
+        "item_id": "I000060",
+        "item_name": "Sample Game 61",
+        "genre": [
+          "Indie",
+          "Platformer",
+          "Fighting"
+        ],
+        "tags": [
+          "Sandbox",
+          "Great Soundtrack"
+        ],
+        "price": 22.7,
+        "release_year": 2019,
+        "developer": "Developer 29",
+        "publisher": "Publisher 15",
+        "rating": 2.7,
+        "playtime_median": 146,
+        "playtime_mean": 327
+      },
+      {
+        "item_id": "I000626",
+        "item_name": "Sample Game 627",
+        "genre": [
+          "Adventure",
+          "Casual"
+        ],
+        "tags": [
+          "Roguelike",
+          "Linear",
+          "Roguelite",
+          "Single-player",
+          "Sandbox"
+        ],
+        "price": 55.07,
+        "release_year": 2011,
+        "developer": "Developer 32",
+        "publisher": "Publisher 18",
+        "rating": 2.7,
+        "playtime_median": 51,
+        "playtime_mean": 139
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000021",
+    "bundle_name": "Sample Bundle 22",
+    "bundle_price": 145.52,
+    "bundle_final_price": 27.37,
+    "bundle_discount": "17%",
+    "items": [
+      {
+        "item_id": "I000666",
+        "item_name": "Sample Game 667",
+        "genre": [
+          "Indie"
+        ],
+        "tags": [
+          "Co-op",
+          "Open World",
+          "Building",
+          "3D",
+          "Combat"
+        ],
+        "price": 7.88,
+        "release_year": 2020,
+        "developer": "Developer 19",
+        "publisher": "Publisher 19",
+        "rating": 2.1,
+        "playtime_median": 133,
+        "playtime_mean": 264
+      },
+      {
+        "item_id": "I000929",
+        "item_name": "Sample Game 930",
+        "genre": [
+          "Sports",
+          "Casual"
+        ],
+        "tags": [
+          "Building",
+          "Crafting",
+          "Linear",
+          "2D",
+          "Stealth"
+        ],
+        "price": 6.93,
+        "release_year": 2018,
+        "developer": "Developer 33",
+        "publisher": "Publisher 10",
+        "rating": 2.2,
+        "playtime_median": 493,
+        "playtime_mean": 290
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000022",
+    "bundle_name": "Sample Bundle 23",
+    "bundle_price": 154.88,
+    "bundle_final_price": 25.13,
+    "bundle_discount": "12%",
+    "items": [
+      {
+        "item_id": "I000847",
+        "item_name": "Sample Game 848",
+        "genre": [
+          "Sports",
+          "Platformer",
+          "Indie"
+        ],
+        "tags": [
+          "Open World",
+          "Sandbox",
+          "Single-player",
+          "Competitive",
+          "Combat"
+        ],
+        "price": 24.17,
+        "release_year": 2010,
+        "developer": "Developer 22",
+        "publisher": "Publisher 6",
+        "rating": 3.8,
+        "playtime_median": 228,
+        "playtime_mean": 219
+      },
+      {
+        "item_id": "I000456",
+        "item_name": "Sample Game 457",
+        "genre": [
+          "RPG",
+          "Strategy"
+        ],
+        "tags": [
+          "Pixel Graphics",
+          "Multiplayer",
+          "Roguelite",
+          "Competitive",
+          "Roguelike"
+        ],
+        "price": 43.42,
+        "release_year": 2010,
+        "developer": "Developer 25",
+        "publisher": "Publisher 13",
+        "rating": 1.1,
+        "playtime_median": 52,
+        "playtime_mean": 440
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000023",
+    "bundle_name": "Sample Bundle 24",
+    "bundle_price": 71.52,
+    "bundle_final_price": 101.89,
+    "bundle_discount": "62%",
+    "items": [
+      {
+        "item_id": "I000426",
+        "item_name": "Sample Game 427",
+        "genre": [
+          "Horror",
+          "Visual Novel",
+          "Platformer"
+        ],
+        "tags": [
+          "Open World",
+          "Building",
+          "Crafting",
+          "Roguelike"
+        ],
+        "price": 32.12,
+        "release_year": 2013,
+        "developer": "Developer 49",
+        "publisher": "Publisher 4",
+        "rating": 4.8,
+        "playtime_median": 321,
+        "playtime_mean": 282
+      },
+      {
+        "item_id": "I000443",
+        "item_name": "Sample Game 444",
+        "genre": [
+          "Simulation"
+        ],
+        "tags": [
+          "Combat",
+          "Great Soundtrack",
+          "Roguelike",
+          "Competitive",
+          "Single-player"
+        ],
+        "price": 32.09,
+        "release_year": 2013,
+        "developer": "Developer 47",
+        "publisher": "Publisher 9",
+        "rating": 3.0,
+        "playtime_median": 310,
+        "playtime_mean": 490
+      },
+      {
+        "item_id": "I000042",
+        "item_name": "Sample Game 43",
+        "genre": [
+          "RPG",
+          "Casual"
+        ],
+        "tags": [
+          "Sandbox",
+          "3D",
+          "Multiplayer",
+          "Roguelite",
+          "Pixel Graphics"
+        ],
+        "price": 32.39,
+        "release_year": 2010,
+        "developer": "Developer 4",
+        "publisher": "Publisher 3",
+        "rating": 1.8,
+        "playtime_median": 73,
+        "playtime_mean": 190
+      },
+      {
+        "item_id": "I000376",
+        "item_name": "Sample Game 377",
+        "genre": [
+          "Visual Novel"
+        ],
+        "tags": [
+          "Exploration",
+          "Sandbox",
+          "Roguelite",
+          "Single-player",
+          "Roguelike"
+        ],
+        "price": 26.47,
+        "release_year": 2021,
+        "developer": "Developer 32",
+        "publisher": "Publisher 11",
+        "rating": 1.5,
+        "playtime_median": 126,
+        "playtime_mean": 246
+      },
+      {
+        "item_id": "I000111",
+        "item_name": "Sample Game 112",
+        "genre": [
+          "Adventure",
+          "Racing",
+          "Visual Novel"
+        ],
+        "tags": [
+          "Story Rich",
+          "Roguelite",
+          "Great Soundtrack"
+        ],
+        "price": 11.87,
+        "release_year": 2024,
+        "developer": "Developer 17",
+        "publisher": "Publisher 14",
+        "rating": 4.0,
+        "playtime_median": 418,
+        "playtime_mean": 52
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000024",
+    "bundle_name": "Sample Bundle 25",
+    "bundle_price": 95.23,
+    "bundle_final_price": 114.48,
+    "bundle_discount": "49%",
+    "items": [
+      {
+        "item_id": "I000852",
+        "item_name": "Sample Game 853",
+        "genre": [
+          "Simulation"
+        ],
+        "tags": [
+          "Roguelike",
+          "Linear",
+          "Sandbox",
+          "Roguelite"
+        ],
+        "price": 20.62,
+        "release_year": 2017,
+        "developer": "Developer 26",
+        "publisher": "Publisher 18",
+        "rating": 4.0,
+        "playtime_median": 323,
+        "playtime_mean": 187
+      },
+      {
+        "item_id": "I000571",
+        "item_name": "Sample Game 572",
+        "genre": [
+          "Platformer",
+          "Adventure"
+        ],
+        "tags": [
+          "Exploration",
+          "Building",
+          "Linear",
+          "Multiplayer"
+        ],
+        "price": 44.12,
+        "release_year": 2023,
+        "developer": "Developer 20",
+        "publisher": "Publisher 16",
+        "rating": 1.0,
+        "playtime_median": 101,
+        "playtime_mean": 197
+      },
+      {
+        "item_id": "I000851",
+        "item_name": "Sample Game 852",
+        "genre": [
+          "Action"
+        ],
+        "tags": [
+          "Open World",
+          "Linear",
+          "Building",
+          "Sandbox"
+        ],
+        "price": 10.41,
+        "release_year": 2020,
+        "developer": "Developer 34",
+        "publisher": "Publisher 4",
+        "rating": 4.0,
+        "playtime_median": 148,
+        "playtime_mean": 124
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000025",
+    "bundle_name": "Sample Bundle 26",
+    "bundle_price": 146.07,
+    "bundle_final_price": 133.42,
+    "bundle_discount": "18%",
+    "items": [
+      {
+        "item_id": "I000149",
+        "item_name": "Sample Game 150",
+        "genre": [
+          "Indie"
+        ],
+        "tags": [
+          "Crafting",
+          "Roguelite",
+          "Pixel Graphics",
+          "2D",
+          "Exploration"
+        ],
+        "price": 22.36,
+        "release_year": 2022,
+        "developer": "Developer 46",
+        "publisher": "Publisher 1",
+        "rating": 4.4,
+        "playtime_median": 136,
+        "playtime_mean": 390
+      },
+      {
+        "item_id": "I000731",
+        "item_name": "Sample Game 732",
+        "genre": [
+          "Adventure",
+          "Horror"
+        ],
+        "tags": [
+          "Roguelite",
+          "Single-player",
+          "Roguelike"
+        ],
+        "price": 4.46,
+        "release_year": 2018,
+        "developer": "Developer 42",
+        "publisher": "Publisher 19",
+        "rating": 3.5,
+        "playtime_median": 180,
+        "playtime_mean": 512
+      },
+      {
+        "item_id": "I000134",
+        "item_name": "Sample Game 135",
+        "genre": [
+          "Visual Novel",
+          "Strategy"
+        ],
+        "tags": [
+          "Competitive",
+          "Co-op",
+          "Roguelike",
+          "Single-player"
+        ],
+        "price": 19.07,
+        "release_year": 2019,
+        "developer": "Developer 29",
+        "publisher": "Publisher 15",
+        "rating": 3.5,
+        "playtime_median": 337,
+        "playtime_mean": 346
+      },
+      {
+        "item_id": "I000041",
+        "item_name": "Sample Game 42",
+        "genre": [
+          "Indie",
+          "Racing",
+          "Fighting"
+        ],
+        "tags": [
+          "Roguelike",
+          "Single-player"
+        ],
+        "price": 55.26,
+        "release_year": 2012,
+        "developer": "Developer 2",
+        "publisher": "Publisher 20",
+        "rating": 2.6,
+        "playtime_median": 394,
+        "playtime_mean": 34
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000026",
+    "bundle_name": "Sample Bundle 27",
+    "bundle_price": 100.93,
+    "bundle_final_price": 76.55,
+    "bundle_discount": "42%",
+    "items": [
+      {
+        "item_id": "I000549",
+        "item_name": "Sample Game 550",
+        "genre": [
+          "Platformer",
+          "Shooter",
+          "Sports"
+        ],
+        "tags": [
+          "Multiplayer",
+          "Open World",
+          "Competitive"
+        ],
+        "price": 44.81,
+        "release_year": 2024,
+        "developer": "Developer 5",
+        "publisher": "Publisher 10",
+        "rating": 1.3,
+        "playtime_median": 83,
+        "playtime_mean": 26
+      },
+      {
+        "item_id": "I000953",
+        "item_name": "Sample Game 954",
+        "genre": [
+          "RPG",
+          "Adventure"
+        ],
+        "tags": [
+          "Multiplayer",
+          "Building",
+          "Stealth",
+          "Combat",
+          "Atmospheric"
+        ],
+        "price": 17.5,
+        "release_year": 2019,
+        "developer": "Developer 25",
+        "publisher": "Publisher 3",
+        "rating": 1.7,
+        "playtime_median": 398,
+        "playtime_mean": 234
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000027",
+    "bundle_name": "Sample Bundle 28",
+    "bundle_price": 95.17,
+    "bundle_final_price": 126.67,
+    "bundle_discount": "28%",
+    "items": [
+      {
+        "item_id": "I000676",
+        "item_name": "Sample Game 677",
+        "genre": [
+          "Racing",
+          "Casual"
+        ],
+        "tags": [
+          "Open World",
+          "Building",
+          "Exploration",
+          "Linear",
+          "Roguelike"
+        ],
+        "price": 8.03,
+        "release_year": 2017,
+        "developer": "Developer 21",
+        "publisher": "Publisher 1",
+        "rating": 2.4,
+        "playtime_median": 140,
+        "playtime_mean": 567
+      },
+      {
+        "item_id": "I000623",
+        "item_name": "Sample Game 624",
+        "genre": [
+          "Platformer",
+          "Indie",
+          "Strategy"
+        ],
+        "tags": [
+          "Stealth",
+          "Great Soundtrack"
+        ],
+        "price": 59.59,
+        "release_year": 2019,
+        "developer": "Developer 5",
+        "publisher": "Publisher 16",
+        "rating": 3.5,
+        "playtime_median": 467,
+        "playtime_mean": 453
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000028",
+    "bundle_name": "Sample Bundle 29",
+    "bundle_price": 127.95,
+    "bundle_final_price": 147.45,
+    "bundle_discount": "69%",
+    "items": [
+      {
+        "item_id": "I000176",
+        "item_name": "Sample Game 177",
+        "genre": [
+          "Sports",
+          "Platformer"
+        ],
+        "tags": [
+          "Competitive",
+          "Combat",
+          "Linear",
+          "Pixel Graphics"
+        ],
+        "price": 13.57,
+        "release_year": 2014,
+        "developer": "Developer 48",
+        "publisher": "Publisher 15",
+        "rating": 3.3,
+        "playtime_median": 200,
+        "playtime_mean": 582
+      },
+      {
+        "item_id": "I000131",
+        "item_name": "Sample Game 132",
+        "genre": [
+          "Shooter"
+        ],
+        "tags": [
+          "2D",
+          "3D",
+          "Single-player",
+          "Combat",
+          "Exploration"
+        ],
+        "price": 9.78,
+        "release_year": 2022,
+        "developer": "Developer 42",
+        "publisher": "Publisher 6",
+        "rating": 5.0,
+        "playtime_median": 277,
+        "playtime_mean": 562
+      },
+      {
+        "item_id": "I000380",
+        "item_name": "Sample Game 381",
+        "genre": [
+          "Visual Novel",
+          "Horror",
+          "Shooter"
+        ],
+        "tags": [
+          "Pixel Graphics",
+          "Story Rich",
+          "Roguelike"
+        ],
+        "price": 49.93,
+        "release_year": 2024,
+        "developer": "Developer 35",
+        "publisher": "Publisher 10",
+        "rating": 3.2,
+        "playtime_median": 358,
+        "playtime_mean": 98
+      },
+      {
+        "item_id": "I000471",
+        "item_name": "Sample Game 472",
+        "genre": [
+          "Indie",
+          "Platformer",
+          "Racing"
+        ],
+        "tags": [
+          "Stealth",
+          "Single-player",
+          "Co-op",
+          "Building",
+          "Roguelike"
+        ],
+        "price": 45.7,
+        "release_year": 2016,
+        "developer": "Developer 31",
+        "publisher": "Publisher 8",
+        "rating": 1.1,
+        "playtime_median": 385,
+        "playtime_mean": 333
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000029",
+    "bundle_name": "Sample Bundle 30",
+    "bundle_price": 101.62,
+    "bundle_final_price": 143.53,
+    "bundle_discount": "67%",
+    "items": [
+      {
+        "item_id": "I000661",
+        "item_name": "Sample Game 662",
+        "genre": [
+          "Simulation",
+          "Puzzle"
+        ],
+        "tags": [
+          "Combat",
+          "Roguelike",
+          "Building",
+          "Great Soundtrack",
+          "Co-op"
+        ],
+        "price": 11.06,
+        "release_year": 2011,
+        "developer": "Developer 47",
+        "publisher": "Publisher 9",
+        "rating": 1.2,
+        "playtime_median": 280,
+        "playtime_mean": 269
+      },
+      {
+        "item_id": "I000275",
+        "item_name": "Sample Game 276",
+        "genre": [
+          "Strategy"
+        ],
+        "tags": [
+          "Sandbox",
+          "Building",
+          "Pixel Graphics"
+        ],
+        "price": 44.48,
+        "release_year": 2013,
+        "developer": "Developer 50",
+        "publisher": "Publisher 10",
+        "rating": 3.0,
+        "playtime_median": 272,
+        "playtime_mean": 223
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000030",
+    "bundle_name": "Sample Bundle 31",
+    "bundle_price": 67.41,
+    "bundle_final_price": 142.31,
+    "bundle_discount": "45%",
+    "items": [
+      {
+        "item_id": "I000887",
+        "item_name": "Sample Game 888",
+        "genre": [
+          "Shooter",
+          "Fighting",
+          "Visual Novel"
+        ],
+        "tags": [
+          "Great Soundtrack",
+          "2D",
+          "Multiplayer",
+          "Atmospheric",
+          "Roguelite"
+        ],
+        "price": 55.95,
+        "release_year": 2024,
+        "developer": "Developer 26",
+        "publisher": "Publisher 7",
+        "rating": 5.0,
+        "playtime_median": 266,
+        "playtime_mean": 485
+      },
+      {
+        "item_id": "I000498",
+        "item_name": "Sample Game 499",
+        "genre": [
+          "Racing"
+        ],
+        "tags": [
+          "Crafting",
+          "3D",
+          "Atmospheric",
+          "Linear"
+        ],
+        "price": 55.24,
+        "release_year": 2011,
+        "developer": "Developer 25",
+        "publisher": "Publisher 17",
+        "rating": 2.6,
+        "playtime_median": 122,
+        "playtime_mean": 206
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000031",
+    "bundle_name": "Sample Bundle 32",
+    "bundle_price": 171.84,
+    "bundle_final_price": 141.49,
+    "bundle_discount": "67%",
+    "items": [
+      {
+        "item_id": "I000630",
+        "item_name": "Sample Game 631",
+        "genre": [
+          "Horror",
+          "RPG",
+          "Strategy"
+        ],
+        "tags": [
+          "Open World",
+          "Competitive",
+          "Single-player",
+          "Pixel Graphics"
+        ],
+        "price": 38.1,
+        "release_year": 2011,
+        "developer": "Developer 11",
+        "publisher": "Publisher 13",
+        "rating": 1.2,
+        "playtime_median": 169,
+        "playtime_mean": 477
+      },
+      {
+        "item_id": "I000853",
+        "item_name": "Sample Game 854",
+        "genre": [
+          "Action",
+          "Casual"
+        ],
+        "tags": [
+          "Roguelite",
+          "Story Rich",
+          "Multiplayer",
+          "Competitive",
+          "Single-player"
+        ],
+        "price": 59.1,
+        "release_year": 2013,
+        "developer": "Developer 43",
+        "publisher": "Publisher 18",
+        "rating": 2.7,
+        "playtime_median": 87,
+        "playtime_mean": 338
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000032",
+    "bundle_name": "Sample Bundle 33",
+    "bundle_price": 122.24,
+    "bundle_final_price": 63.98,
+    "bundle_discount": "41%",
+    "items": [
+      {
+        "item_id": "I000026",
+        "item_name": "Sample Game 27",
+        "genre": [
+          "Casual",
+          "Visual Novel"
+        ],
+        "tags": [
+          "Competitive",
+          "Roguelike"
+        ],
+        "price": 29.0,
+        "release_year": 2019,
+        "developer": "Developer 18",
+        "publisher": "Publisher 13",
+        "rating": 1.5,
+        "playtime_median": 215,
+        "playtime_mean": 257
+      },
+      {
+        "item_id": "I000267",
+        "item_name": "Sample Game 268",
+        "genre": [
+          "Horror",
+          "Strategy",
+          "Adventure"
+        ],
+        "tags": [
+          "Pixel Graphics",
+          "Open World",
+          "Competitive"
+        ],
+        "price": 38.58,
+        "release_year": 2011,
+        "developer": "Developer 13",
+        "publisher": "Publisher 15",
+        "rating": 1.6,
+        "playtime_median": 115,
+        "playtime_mean": 195
+      },
+      {
+        "item_id": "I000220",
+        "item_name": "Sample Game 221",
+        "genre": [
+          "Sports"
+        ],
+        "tags": [
+          "Combat",
+          "Roguelite",
+          "Stealth",
+          "Roguelike",
+          "3D"
+        ],
+        "price": 11.83,
+        "release_year": 2013,
+        "developer": "Developer 39",
+        "publisher": "Publisher 10",
+        "rating": 4.7,
+        "playtime_median": 234,
+        "playtime_mean": 244
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000033",
+    "bundle_name": "Sample Bundle 34",
+    "bundle_price": 114.52,
+    "bundle_final_price": 29.46,
+    "bundle_discount": "15%",
+    "items": [
+      {
+        "item_id": "I000608",
+        "item_name": "Sample Game 609",
+        "genre": [
+          "Sports",
+          "Strategy"
+        ],
+        "tags": [
+          "Crafting",
+          "Story Rich"
+        ],
+        "price": 44.79,
+        "release_year": 2016,
+        "developer": "Developer 17",
+        "publisher": "Publisher 2",
+        "rating": 1.7,
+        "playtime_median": 99,
+        "playtime_mean": 164
+      },
+      {
+        "item_id": "I000619",
+        "item_name": "Sample Game 620",
+        "genre": [
+          "Horror"
+        ],
+        "tags": [
+          "Pixel Graphics",
+          "Linear",
+          "Stealth",
+          "Story Rich",
+          "Atmospheric"
+        ],
+        "price": 56.99,
+        "release_year": 2023,
+        "developer": "Developer 29",
+        "publisher": "Publisher 3",
+        "rating": 4.8,
+        "playtime_median": 30,
+        "playtime_mean": 171
+      },
+      {
+        "item_id": "I000626",
+        "item_name": "Sample Game 627",
+        "genre": [
+          "Adventure",
+          "Casual"
+        ],
+        "tags": [
+          "Roguelike",
+          "Linear",
+          "Roguelite",
+          "Single-player",
+          "Sandbox"
+        ],
+        "price": 55.07,
+        "release_year": 2011,
+        "developer": "Developer 32",
+        "publisher": "Publisher 18",
+        "rating": 2.7,
+        "playtime_median": 51,
+        "playtime_mean": 139
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000034",
+    "bundle_name": "Sample Bundle 35",
+    "bundle_price": 35.7,
+    "bundle_final_price": 80.44,
+    "bundle_discount": "57%",
+    "items": [
+      {
+        "item_id": "I000622",
+        "item_name": "Sample Game 623",
+        "genre": [
+          "Fighting",
+          "Visual Novel"
+        ],
+        "tags": [
+          "Stealth",
+          "Roguelike",
+          "Sandbox",
+          "Combat"
+        ],
+        "price": 3.53,
+        "release_year": 2014,
+        "developer": "Developer 10",
+        "publisher": "Publisher 17",
+        "rating": 4.9,
+        "playtime_median": 99,
+        "playtime_mean": 354
+      },
+      {
+        "item_id": "I000975",
+        "item_name": "Sample Game 976",
+        "genre": [
+          "Simulation",
+          "Strategy"
+        ],
+        "tags": [
+          "Building",
+          "Crafting",
+          "Pixel Graphics",
+          "Roguelite"
+        ],
+        "price": 11.66,
+        "release_year": 2020,
+        "developer": "Developer 1",
+        "publisher": "Publisher 20",
+        "rating": 3.6,
+        "playtime_median": 456,
+        "playtime_mean": 174
+      },
+      {
+        "item_id": "I000087",
+        "item_name": "Sample Game 88",
+        "genre": [
+          "Fighting",
+          "Horror"
+        ],
+        "tags": [
+          "3D",
+          "Roguelite",
+          "Building"
+        ],
+        "price": 46.55,
+        "release_year": 2024,
+        "developer": "Developer 2",
+        "publisher": "Publisher 11",
+        "rating": 1.7,
+        "playtime_median": 366,
+        "playtime_mean": 223
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000035",
+    "bundle_name": "Sample Bundle 36",
+    "bundle_price": 89.63,
+    "bundle_final_price": 48.36,
+    "bundle_discount": "10%",
+    "items": [
+      {
+        "item_id": "I000390",
+        "item_name": "Sample Game 391",
+        "genre": [
+          "RPG",
+          "Simulation",
+          "Sports"
+        ],
+        "tags": [
+          "Atmospheric",
+          "Exploration",
+          "Stealth",
+          "2D"
+        ],
+        "price": 18.98,
+        "release_year": 2018,
+        "developer": "Developer 30",
+        "publisher": "Publisher 19",
+        "rating": 4.0,
+        "playtime_median": 133,
+        "playtime_mean": 249
+      },
+      {
+        "item_id": "I000367",
+        "item_name": "Sample Game 368",
+        "genre": [
+          "Adventure",
+          "Puzzle",
+          "Platformer"
+        ],
+        "tags": [
+          "Competitive",
+          "Great Soundtrack",
+          "Crafting",
+          "Roguelite"
+        ],
+        "price": 9.51,
+        "release_year": 2011,
+        "developer": "Developer 11",
+        "publisher": "Publisher 15",
+        "rating": 4.8,
+        "playtime_median": 275,
+        "playtime_mean": 182
+      },
+      {
+        "item_id": "I000087",
+        "item_name": "Sample Game 88",
+        "genre": [
+          "Fighting",
+          "Horror"
+        ],
+        "tags": [
+          "3D",
+          "Roguelite",
+          "Building"
+        ],
+        "price": 46.55,
+        "release_year": 2024,
+        "developer": "Developer 2",
+        "publisher": "Publisher 11",
+        "rating": 1.7,
+        "playtime_median": 366,
+        "playtime_mean": 223
+      },
+      {
+        "item_id": "I000121",
+        "item_name": "Sample Game 122",
+        "genre": [
+          "Sports"
+        ],
+        "tags": [
+          "Roguelite",
+          "Pixel Graphics",
+          "2D",
+          "Open World"
+        ],
+        "price": 38.49,
+        "release_year": 2012,
+        "developer": "Developer 27",
+        "publisher": "Publisher 12",
+        "rating": 4.9,
+        "playtime_median": 164,
+        "playtime_mean": 406
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000036",
+    "bundle_name": "Sample Bundle 37",
+    "bundle_price": 29.89,
+    "bundle_final_price": 141.97,
+    "bundle_discount": "26%",
+    "items": [
+      {
+        "item_id": "I000162",
+        "item_name": "Sample Game 163",
+        "genre": [
+          "Action",
+          "Shooter"
+        ],
+        "tags": [
+          "Co-op",
+          "Exploration",
+          "Roguelite"
+        ],
+        "price": 56.79,
+        "release_year": 2019,
+        "developer": "Developer 3",
+        "publisher": "Publisher 5",
+        "rating": 4.1,
+        "playtime_median": 477,
+        "playtime_mean": 56
+      },
+      {
+        "item_id": "I000100",
+        "item_name": "Sample Game 101",
+        "genre": [
+          "Simulation",
+          "Platformer",
+          "Shooter"
+        ],
+        "tags": [
+          "Story Rich",
+          "Crafting",
+          "Pixel Graphics"
+        ],
+        "price": 1.28,
+        "release_year": 2011,
+        "developer": "Developer 34",
+        "publisher": "Publisher 20",
+        "rating": 3.9,
+        "playtime_median": 86,
+        "playtime_mean": 342
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000037",
+    "bundle_name": "Sample Bundle 38",
+    "bundle_price": 80.64,
+    "bundle_final_price": 60.21,
+    "bundle_discount": "35%",
+    "items": [
+      {
+        "item_id": "I000378",
+        "item_name": "Sample Game 379",
+        "genre": [
+          "Fighting",
+          "Horror",
+          "Indie"
+        ],
+        "tags": [
+          "Exploration",
+          "Single-player",
+          "Combat",
+          "3D"
+        ],
+        "price": 43.63,
+        "release_year": 2010,
+        "developer": "Developer 37",
+        "publisher": "Publisher 14",
+        "rating": 4.6,
+        "playtime_median": 416,
+        "playtime_mean": 64
+      },
+      {
+        "item_id": "I000687",
+        "item_name": "Sample Game 688",
+        "genre": [
+          "Racing",
+          "Puzzle",
+          "Visual Novel"
+        ],
+        "tags": [
+          "Stealth",
+          "Combat",
+          "Pixel Graphics",
+          "Story Rich"
+        ],
+        "price": 5.33,
+        "release_year": 2023,
+        "developer": "Developer 20",
+        "publisher": "Publisher 18",
+        "rating": 2.1,
+        "playtime_median": 135,
+        "playtime_mean": 66
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000038",
+    "bundle_name": "Sample Bundle 39",
+    "bundle_price": 151.17,
+    "bundle_final_price": 35.16,
+    "bundle_discount": "14%",
+    "items": [
+      {
+        "item_id": "I000372",
+        "item_name": "Sample Game 373",
+        "genre": [
+          "Casual"
+        ],
+        "tags": [
+          "Linear",
+          "3D",
+          "Roguelite",
+          "Pixel Graphics",
+          "Stealth"
+        ],
+        "price": 22.15,
+        "release_year": 2021,
+        "developer": "Developer 48",
+        "publisher": "Publisher 16",
+        "rating": 2.9,
+        "playtime_median": 129,
+        "playtime_mean": 469
+      },
+      {
+        "item_id": "I000443",
+        "item_name": "Sample Game 444",
+        "genre": [
+          "Simulation"
+        ],
+        "tags": [
+          "Combat",
+          "Great Soundtrack",
+          "Roguelike",
+          "Competitive",
+          "Single-player"
+        ],
+        "price": 32.09,
+        "release_year": 2013,
+        "developer": "Developer 47",
+        "publisher": "Publisher 9",
+        "rating": 3.0,
+        "playtime_median": 310,
+        "playtime_mean": 490
+      },
+      {
+        "item_id": "I000545",
+        "item_name": "Sample Game 546",
+        "genre": [
+          "RPG"
+        ],
+        "tags": [
+          "Building",
+          "Linear",
+          "Roguelike",
+          "2D",
+          "Stealth"
+        ],
+        "price": 35.38,
+        "release_year": 2017,
+        "developer": "Developer 37",
+        "publisher": "Publisher 2",
+        "rating": 1.5,
+        "playtime_median": 28,
+        "playtime_mean": 275
+      },
+      {
+        "item_id": "I000456",
+        "item_name": "Sample Game 457",
+        "genre": [
+          "RPG",
+          "Strategy"
+        ],
+        "tags": [
+          "Pixel Graphics",
+          "Multiplayer",
+          "Roguelite",
+          "Competitive",
+          "Roguelike"
+        ],
+        "price": 43.42,
+        "release_year": 2010,
+        "developer": "Developer 25",
+        "publisher": "Publisher 13",
+        "rating": 1.1,
+        "playtime_median": 52,
+        "playtime_mean": 440
+      },
+      {
+        "item_id": "I000276",
+        "item_name": "Sample Game 277",
+        "genre": [
+          "Indie"
+        ],
+        "tags": [
+          "Exploration",
+          "Roguelite",
+          "Co-op",
+          "Stealth"
+        ],
+        "price": 33.08,
+        "release_year": 2014,
+        "developer": "Developer 1",
+        "publisher": "Publisher 2",
+        "rating": 1.1,
+        "playtime_median": 103,
+        "playtime_mean": 195
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000039",
+    "bundle_name": "Sample Bundle 40",
+    "bundle_price": 165.14,
+    "bundle_final_price": 17.5,
+    "bundle_discount": "22%",
+    "items": [
+      {
+        "item_id": "I000050",
+        "item_name": "Sample Game 51",
+        "genre": [
+          "Casual"
+        ],
+        "tags": [
+          "Crafting",
+          "Story Rich",
+          "Great Soundtrack",
+          "Co-op",
+          "Atmospheric"
+        ],
+        "price": 6.96,
+        "release_year": 2019,
+        "developer": "Developer 41",
+        "publisher": "Publisher 8",
+        "rating": 4.8,
+        "playtime_median": 125,
+        "playtime_mean": 589
+      },
+      {
+        "item_id": "I000440",
+        "item_name": "Sample Game 441",
+        "genre": [
+          "Visual Novel"
+        ],
+        "tags": [
+          "Crafting",
+          "Competitive"
+        ],
+        "price": 18.8,
+        "release_year": 2021,
+        "developer": "Developer 19",
+        "publisher": "Publisher 19",
+        "rating": 2.8,
+        "playtime_median": 378,
+        "playtime_mean": 186
+      },
+      {
+        "item_id": "I000447",
+        "item_name": "Sample Game 448",
+        "genre": [
+          "Action",
+          "Shooter"
+        ],
+        "tags": [
+          "Story Rich",
+          "Roguelike"
+        ],
+        "price": 52.72,
+        "release_year": 2018,
+        "developer": "Developer 6",
+        "publisher": "Publisher 11",
+        "rating": 3.9,
+        "playtime_median": 175,
+        "playtime_mean": 198
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000040",
+    "bundle_name": "Sample Bundle 41",
+    "bundle_price": 21.74,
+    "bundle_final_price": 111.16,
+    "bundle_discount": "64%",
+    "items": [
+      {
+        "item_id": "I000086",
+        "item_name": "Sample Game 87",
+        "genre": [
+          "Racing",
+          "Simulation"
+        ],
+        "tags": [
+          "Great Soundtrack",
+          "Crafting",
+          "3D"
+        ],
+        "price": 57.09,
+        "release_year": 2012,
+        "developer": "Developer 20",
+        "publisher": "Publisher 16",
+        "rating": 4.7,
+        "playtime_median": 234,
+        "playtime_mean": 159
+      },
+      {
+        "item_id": "I000624",
+        "item_name": "Sample Game 625",
+        "genre": [
+          "Horror",
+          "Casual",
+          "Simulation"
+        ],
+        "tags": [
+          "Stealth",
+          "Roguelike"
+        ],
+        "price": 16.02,
+        "release_year": 2012,
+        "developer": "Developer 11",
+        "publisher": "Publisher 10",
+        "rating": 3.1,
+        "playtime_median": 430,
+        "playtime_mean": 471
+      },
+      {
+        "item_id": "I000878",
+        "item_name": "Sample Game 879",
+        "genre": [
+          "Sports",
+          "Fighting"
+        ],
+        "tags": [
+          "Exploration",
+          "Linear",
+          "2D"
+        ],
+        "price": 29.33,
+        "release_year": 2024,
+        "developer": "Developer 42",
+        "publisher": "Publisher 5",
+        "rating": 1.2,
+        "playtime_median": 417,
+        "playtime_mean": 511
+      },
+      {
+        "item_id": "I000022",
+        "item_name": "Sample Game 23",
+        "genre": [
+          "Indie"
+        ],
+        "tags": [
+          "Competitive",
+          "Co-op",
+          "3D",
+          "Stealth",
+          "Combat"
+        ],
+        "price": 0.21,
+        "release_year": 2011,
+        "developer": "Developer 48",
+        "publisher": "Publisher 17",
+        "rating": 1.7,
+        "playtime_median": 181,
+        "playtime_mean": 89
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000041",
+    "bundle_name": "Sample Bundle 42",
+    "bundle_price": 113.13,
+    "bundle_final_price": 104.35,
+    "bundle_discount": "51%",
+    "items": [
+      {
+        "item_id": "I000004",
+        "item_name": "Sample Game 5",
+        "genre": [
+          "Puzzle"
+        ],
+        "tags": [
+          "2D",
+          "Pixel Graphics",
+          "Building"
+        ],
+        "price": 43.26,
+        "release_year": 2018,
+        "developer": "Developer 16",
+        "publisher": "Publisher 4",
+        "rating": 4.6,
+        "playtime_median": 260,
+        "playtime_mean": 411
+      },
+      {
+        "item_id": "I000142",
+        "item_name": "Sample Game 143",
+        "genre": [
+          "Platformer",
+          "Strategy"
+        ],
+        "tags": [
+          "3D",
+          "Exploration",
+          "Atmospheric"
+        ],
+        "price": 0.25,
+        "release_year": 2024,
+        "developer": "Developer 16",
+        "publisher": "Publisher 10",
+        "rating": 2.9,
+        "playtime_median": 235,
+        "playtime_mean": 73
+      },
+      {
+        "item_id": "I000954",
+        "item_name": "Sample Game 955",
+        "genre": [
+          "Action",
+          "Platformer"
+        ],
+        "tags": [
+          "Sandbox",
+          "Atmospheric",
+          "Open World"
+        ],
+        "price": 47.25,
+        "release_year": 2011,
+        "developer": "Developer 5",
+        "publisher": "Publisher 10",
+        "rating": 2.1,
+        "playtime_median": 440,
+        "playtime_mean": 577
+      },
+      {
+        "item_id": "I000459",
+        "item_name": "Sample Game 460",
+        "genre": [
+          "Fighting",
+          "Racing"
+        ],
+        "tags": [
+          "Story Rich",
+          "Exploration",
+          "Great Soundtrack"
+        ],
+        "price": 26.87,
+        "release_year": 2019,
+        "developer": "Developer 45",
+        "publisher": "Publisher 5",
+        "rating": 1.1,
+        "playtime_median": 70,
+        "playtime_mean": 111
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000042",
+    "bundle_name": "Sample Bundle 43",
+    "bundle_price": 171.11,
+    "bundle_final_price": 53.02,
+    "bundle_discount": "38%",
+    "items": [
+      {
+        "item_id": "I000470",
+        "item_name": "Sample Game 471",
+        "genre": [
+          "Fighting"
+        ],
+        "tags": [
+          "Story Rich",
+          "Stealth",
+          "Roguelite",
+          "Roguelike",
+          "Competitive"
+        ],
+        "price": 22.13,
+        "release_year": 2017,
+        "developer": "Developer 20",
+        "publisher": "Publisher 18",
+        "rating": 3.6,
+        "playtime_median": 147,
+        "playtime_mean": 512
+      },
+      {
+        "item_id": "I000676",
+        "item_name": "Sample Game 677",
+        "genre": [
+          "Racing",
+          "Casual"
+        ],
+        "tags": [
+          "Open World",
+          "Building",
+          "Exploration",
+          "Linear",
+          "Roguelike"
+        ],
+        "price": 8.03,
+        "release_year": 2017,
+        "developer": "Developer 21",
+        "publisher": "Publisher 1",
+        "rating": 2.4,
+        "playtime_median": 140,
+        "playtime_mean": 567
+      },
+      {
+        "item_id": "I000620",
+        "item_name": "Sample Game 621",
+        "genre": [
+          "RPG",
+          "Puzzle"
+        ],
+        "tags": [
+          "Multiplayer",
+          "Atmospheric",
+          "Roguelite",
+          "Co-op"
+        ],
+        "price": 21.44,
+        "release_year": 2017,
+        "developer": "Developer 33",
+        "publisher": "Publisher 9",
+        "rating": 4.0,
+        "playtime_median": 325,
+        "playtime_mean": 67
+      },
+      {
+        "item_id": "I000756",
+        "item_name": "Sample Game 757",
+        "genre": [
+          "Casual",
+          "Platformer"
+        ],
+        "tags": [
+          "Pixel Graphics",
+          "Multiplayer"
+        ],
+        "price": 16.99,
+        "release_year": 2010,
+        "developer": "Developer 36",
+        "publisher": "Publisher 11",
+        "rating": 2.4,
+        "playtime_median": 374,
+        "playtime_mean": 389
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000043",
+    "bundle_name": "Sample Bundle 44",
+    "bundle_price": 194.02,
+    "bundle_final_price": 127.71,
+    "bundle_discount": "65%",
+    "items": [
+      {
+        "item_id": "I000083",
+        "item_name": "Sample Game 84",
+        "genre": [
+          "Puzzle",
+          "Action"
+        ],
+        "tags": [
+          "Stealth",
+          "Sandbox",
+          "Single-player",
+          "Exploration"
+        ],
+        "price": 10.51,
+        "release_year": 2019,
+        "developer": "Developer 3",
+        "publisher": "Publisher 5",
+        "rating": 4.0,
+        "playtime_median": 45,
+        "playtime_mean": 306
+      },
+      {
+        "item_id": "I000268",
+        "item_name": "Sample Game 269",
+        "genre": [
+          "Horror"
+        ],
+        "tags": [
+          "Exploration",
+          "Combat",
+          "Atmospheric",
+          "Building"
+        ],
+        "price": 44.54,
+        "release_year": 2014,
+        "developer": "Developer 42",
+        "publisher": "Publisher 4",
+        "rating": 2.5,
+        "playtime_median": 16,
+        "playtime_mean": 552
+      },
+      {
+        "item_id": "I000897",
+        "item_name": "Sample Game 898",
+        "genre": [
+          "Racing"
+        ],
+        "tags": [
+          "Linear",
+          "Building",
+          "Crafting",
+          "Exploration",
+          "Pixel Graphics"
+        ],
+        "price": 11.68,
+        "release_year": 2024,
+        "developer": "Developer 38",
+        "publisher": "Publisher 3",
+        "rating": 2.7,
+        "playtime_median": 279,
+        "playtime_mean": 416
+      },
+      {
+        "item_id": "I000716",
+        "item_name": "Sample Game 717",
+        "genre": [
+          "Adventure",
+          "Sports"
+        ],
+        "tags": [
+          "Sandbox",
+          "Open World"
+        ],
+        "price": 43.13,
+        "release_year": 2024,
+        "developer": "Developer 31",
+        "publisher": "Publisher 1",
+        "rating": 1.1,
+        "playtime_median": 71,
+        "playtime_mean": 432
+      },
+      {
+        "item_id": "I000950",
+        "item_name": "Sample Game 951",
+        "genre": [
+          "Visual Novel",
+          "Adventure",
+          "Strategy"
+        ],
+        "tags": [
+          "Building",
+          "Pixel Graphics"
+        ],
+        "price": 9.83,
+        "release_year": 2015,
+        "developer": "Developer 8",
+        "publisher": "Publisher 3",
+        "rating": 3.9,
+        "playtime_median": 70,
+        "playtime_mean": 114
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000044",
+    "bundle_name": "Sample Bundle 45",
+    "bundle_price": 143.39,
+    "bundle_final_price": 62.81,
+    "bundle_discount": "35%",
+    "items": [
+      {
+        "item_id": "I000166",
+        "item_name": "Sample Game 167",
+        "genre": [
+          "RPG",
+          "Casual"
+        ],
+        "tags": [
+          "Co-op",
+          "Linear",
+          "Roguelite",
+          "Pixel Graphics",
+          "2D"
+        ],
+        "price": 25.91,
+        "release_year": 2014,
+        "developer": "Developer 11",
+        "publisher": "Publisher 13",
+        "rating": 3.4,
+        "playtime_median": 209,
+        "playtime_mean": 248
+      },
+      {
+        "item_id": "I000904",
+        "item_name": "Sample Game 905",
+        "genre": [
+          "Strategy",
+          "RPG",
+          "Casual"
+        ],
+        "tags": [
+          "Multiplayer",
+          "Building",
+          "Single-player",
+          "Crafting",
+          "2D"
+        ],
+        "price": 44.26,
+        "release_year": 2023,
+        "developer": "Developer 15",
+        "publisher": "Publisher 16",
+        "rating": 3.1,
+        "playtime_median": 154,
+        "playtime_mean": 418
+      },
+      {
+        "item_id": "I000301",
+        "item_name": "Sample Game 302",
+        "genre": [
+          "Strategy",
+          "Platformer"
+        ],
+        "tags": [
+          "3D",
+          "Atmospheric",
+          "Sandbox",
+          "Co-op"
+        ],
+        "price": 14.05,
+        "release_year": 2013,
+        "developer": "Developer 23",
+        "publisher": "Publisher 4",
+        "rating": 3.3,
+        "playtime_median": 310,
+        "playtime_mean": 490
+      },
+      {
+        "item_id": "I000991",
+        "item_name": "Sample Game 992",
+        "genre": [
+          "Casual"
+        ],
+        "tags": [
+          "Exploration",
+          "Competitive",
+          "Sandbox"
+        ],
+        "price": 38.16,
+        "release_year": 2014,
+        "developer": "Developer 2",
+        "publisher": "Publisher 5",
+        "rating": 1.0,
+        "playtime_median": 482,
+        "playtime_mean": 400
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000045",
+    "bundle_name": "Sample Bundle 46",
+    "bundle_price": 153.28,
+    "bundle_final_price": 41.67,
+    "bundle_discount": "50%",
+    "items": [
+      {
+        "item_id": "I000259",
+        "item_name": "Sample Game 260",
+        "genre": [
+          "Indie",
+          "RPG",
+          "Shooter"
+        ],
+        "tags": [
+          "Pixel Graphics",
+          "Combat"
+        ],
+        "price": 42.64,
+        "release_year": 2018,
+        "developer": "Developer 25",
+        "publisher": "Publisher 8",
+        "rating": 2.5,
+        "playtime_median": 215,
+        "playtime_mean": 544
+      },
+      {
+        "item_id": "I000813",
+        "item_name": "Sample Game 814",
+        "genre": [
+          "Horror",
+          "Shooter"
+        ],
+        "tags": [
+          "Linear",
+          "Competitive",
+          "Roguelike",
+          "Sandbox"
+        ],
+        "price": 10.87,
+        "release_year": 2023,
+        "developer": "Developer 8",
+        "publisher": "Publisher 14",
+        "rating": 1.0,
+        "playtime_median": 40,
+        "playtime_mean": 373
+      },
+      {
+        "item_id": "I000227",
+        "item_name": "Sample Game 228",
+        "genre": [
+          "Simulation",
+          "Horror",
+          "Adventure"
+        ],
+        "tags": [
+          "Roguelite",
+          "Building",
+          "Sandbox",
+          "2D",
+          "Stealth"
+        ],
+        "price": 38.79,
+        "release_year": 2022,
+        "developer": "Developer 27",
+        "publisher": "Publisher 20",
+        "rating": 4.1,
+        "playtime_median": 472,
+        "playtime_mean": 596
+      },
+      {
+        "item_id": "I000866",
+        "item_name": "Sample Game 867",
+        "genre": [
+          "Visual Novel",
+          "Platformer",
+          "Racing"
+        ],
+        "tags": [
+          "Roguelite",
+          "Atmospheric"
+        ],
+        "price": 18.98,
+        "release_year": 2013,
+        "developer": "Developer 21",
+        "publisher": "Publisher 10",
+        "rating": 1.7,
+        "playtime_median": 68,
+        "playtime_mean": 446
+      },
+      {
+        "item_id": "I000959",
+        "item_name": "Sample Game 960",
+        "genre": [
+          "RPG",
+          "Horror",
+          "Adventure"
+        ],
+        "tags": [
+          "Sandbox",
+          "Linear"
+        ],
+        "price": 29.47,
+        "release_year": 2018,
+        "developer": "Developer 35",
+        "publisher": "Publisher 2",
+        "rating": 2.0,
+        "playtime_median": 471,
+        "playtime_mean": 257
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000046",
+    "bundle_name": "Sample Bundle 47",
+    "bundle_price": 199.18,
+    "bundle_final_price": 85.31,
+    "bundle_discount": "27%",
+    "items": [
+      {
+        "item_id": "I000439",
+        "item_name": "Sample Game 440",
+        "genre": [
+          "Strategy",
+          "Action"
+        ],
+        "tags": [
+          "Pixel Graphics",
+          "Competitive",
+          "Open World",
+          "Exploration"
+        ],
+        "price": 30.71,
+        "release_year": 2011,
+        "developer": "Developer 6",
+        "publisher": "Publisher 17",
+        "rating": 4.9,
+        "playtime_median": 35,
+        "playtime_mean": 193
+      },
+      {
+        "item_id": "I000504",
+        "item_name": "Sample Game 505",
+        "genre": [
+          "Action",
+          "Indie"
+        ],
+        "tags": [
+          "Roguelike",
+          "3D",
+          "Atmospheric",
+          "Great Soundtrack"
+        ],
+        "price": 54.56,
+        "release_year": 2019,
+        "developer": "Developer 9",
+        "publisher": "Publisher 14",
+        "rating": 1.1,
+        "playtime_median": 463,
+        "playtime_mean": 73
+      },
+      {
+        "item_id": "I000728",
+        "item_name": "Sample Game 729",
+        "genre": [
+          "Platformer"
+        ],
+        "tags": [
+          "Multiplayer",
+          "Great Soundtrack",
+          "2D",
+          "Open World",
+          "Competitive"
+        ],
+        "price": 7.85,
+        "release_year": 2019,
+        "developer": "Developer 3",
+        "publisher": "Publisher 3",
+        "rating": 1.5,
+        "playtime_median": 115,
+        "playtime_mean": 267
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000047",
+    "bundle_name": "Sample Bundle 48",
+    "bundle_price": 133.35,
+    "bundle_final_price": 136.29,
+    "bundle_discount": "62%",
+    "items": [
+      {
+        "item_id": "I000115",
+        "item_name": "Sample Game 116",
+        "genre": [
+          "Action",
+          "RPG"
+        ],
+        "tags": [
+          "Stealth",
+          "Competitive",
+          "Crafting"
+        ],
+        "price": 41.99,
+        "release_year": 2022,
+        "developer": "Developer 10",
+        "publisher": "Publisher 14",
+        "rating": 4.9,
+        "playtime_median": 160,
+        "playtime_mean": 347
+      },
+      {
+        "item_id": "I000958",
+        "item_name": "Sample Game 959",
+        "genre": [
+          "Adventure",
+          "Casual"
+        ],
+        "tags": [
+          "Stealth",
+          "Crafting",
+          "Competitive",
+          "Roguelite",
+          "Open World"
+        ],
+        "price": 33.76,
+        "release_year": 2018,
+        "developer": "Developer 2",
+        "publisher": "Publisher 7",
+        "rating": 4.0,
+        "playtime_median": 49,
+        "playtime_mean": 261
+      },
+      {
+        "item_id": "I000581",
+        "item_name": "Sample Game 582",
+        "genre": [
+          "Simulation",
+          "Platformer",
+          "Adventure"
+        ],
+        "tags": [
+          "Building",
+          "Linear",
+          "Atmospheric"
+        ],
+        "price": 56.38,
+        "release_year": 2017,
+        "developer": "Developer 7",
+        "publisher": "Publisher 8",
+        "rating": 4.9,
+        "playtime_median": 474,
+        "playtime_mean": 99
+      },
+      {
+        "item_id": "I000768",
+        "item_name": "Sample Game 769",
+        "genre": [
+          "Racing",
+          "Platformer"
+        ],
+        "tags": [
+          "Multiplayer",
+          "Stealth",
+          "Combat",
+          "Exploration"
+        ],
+        "price": 46.98,
+        "release_year": 2017,
+        "developer": "Developer 19",
+        "publisher": "Publisher 3",
+        "rating": 1.2,
+        "playtime_median": 287,
+        "playtime_mean": 403
+      },
+      {
+        "item_id": "I000912",
+        "item_name": "Sample Game 913",
+        "genre": [
+          "Horror",
+          "Racing"
+        ],
+        "tags": [
+          "Crafting",
+          "Atmospheric",
+          "3D",
+          "Great Soundtrack",
+          "Building"
+        ],
+        "price": 50.92,
+        "release_year": 2013,
+        "developer": "Developer 7",
+        "publisher": "Publisher 15",
+        "rating": 1.8,
+        "playtime_median": 202,
+        "playtime_mean": 356
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000048",
+    "bundle_name": "Sample Bundle 49",
+    "bundle_price": 52.29,
+    "bundle_final_price": 78.94,
+    "bundle_discount": "11%",
+    "items": [
+      {
+        "item_id": "I000191",
+        "item_name": "Sample Game 192",
+        "genre": [
+          "Racing",
+          "Shooter"
+        ],
+        "tags": [
+          "Combat",
+          "Co-op"
+        ],
+        "price": 42.26,
+        "release_year": 2013,
+        "developer": "Developer 37",
+        "publisher": "Publisher 6",
+        "rating": 2.9,
+        "playtime_median": 35,
+        "playtime_mean": 492
+      },
+      {
+        "item_id": "I000836",
+        "item_name": "Sample Game 837",
+        "genre": [
+          "Action",
+          "Fighting"
+        ],
+        "tags": [
+          "Exploration",
+          "Combat",
+          "Pixel Graphics",
+          "2D",
+          "Building"
+        ],
+        "price": 35.43,
+        "release_year": 2010,
+        "developer": "Developer 44",
+        "publisher": "Publisher 13",
+        "rating": 3.9,
+        "playtime_median": 251,
+        "playtime_mean": 449
+      },
+      {
+        "item_id": "I000090",
+        "item_name": "Sample Game 91",
+        "genre": [
+          "Strategy"
+        ],
+        "tags": [
+          "3D",
+          "Competitive",
+          "Single-player"
+        ],
+        "price": 18.6,
+        "release_year": 2015,
+        "developer": "Developer 47",
+        "publisher": "Publisher 6",
+        "rating": 1.2,
+        "playtime_median": 365,
+        "playtime_mean": 528
+      }
+    ]
+  },
+  {
+    "bundle_id": "B000049",
+    "bundle_name": "Sample Bundle 50",
+    "bundle_price": 190.38,
+    "bundle_final_price": 59.32,
+    "bundle_discount": "65%",
+    "items": [
+      {
+        "item_id": "I000976",
+        "item_name": "Sample Game 977",
+        "genre": [
+          "Horror",
+          "Visual Novel"
+        ],
+        "tags": [
+          "Sandbox",
+          "Crafting"
+        ],
+        "price": 8.68,
+        "release_year": 2021,
+        "developer": "Developer 1",
+        "publisher": "Publisher 1",
+        "rating": 1.7,
+        "playtime_median": 284,
+        "playtime_mean": 341
+      },
+      {
+        "item_id": "I000634",
+        "item_name": "Sample Game 635",
+        "genre": [
+          "Simulation",
+          "Action",
+          "RPG"
+        ],
+        "tags": [
+          "Crafting",
+          "2D",
+          "Competitive",
+          "3D",
+          "Exploration"
+        ],
+        "price": 15.73,
+        "release_year": 2024,
+        "developer": "Developer 41",
+        "publisher": "Publisher 3",
+        "rating": 4.8,
+        "playtime_median": 453,
+        "playtime_mean": 44
+      },
+      {
+        "item_id": "I000410",
+        "item_name": "Sample Game 411",
+        "genre": [
+          "Shooter",
+          "Visual Novel"
+        ],
+        "tags": [
+          "Pixel Graphics",
+          "Open World"
+        ],
+        "price": 4.5,
+        "release_year": 2023,
+        "developer": "Developer 19",
+        "publisher": "Publisher 3",
+        "rating": 3.4,
+        "playtime_median": 157,
+        "playtime_mean": 576
+      },
+      {
+        "item_id": "I000298",
+        "item_name": "Sample Game 299",
+        "genre": [
+          "Fighting"
+        ],
+        "tags": [
+          "Great Soundtrack",
+          "2D",
+          "Roguelike"
+        ],
+        "price": 39.63,
+        "release_year": 2020,
+        "developer": "Developer 40",
+        "publisher": "Publisher 8",
+        "rating": 2.6,
+        "playtime_median": 47,
+        "playtime_mean": 333
+      }
+    ]
+  }
+]
